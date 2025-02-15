@@ -106,10 +106,6 @@ npm run build
 vercel deploy
 ```
 
-## License
-
-MIT License.
-
 ## Contact
 
 For any issues, feel free to reach out or open an issue in the GitHub repository.
