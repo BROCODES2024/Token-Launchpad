@@ -1,4 +1,4 @@
-# Token Launchpad
+# Token Launchpad App
 
 ## Overview
 
